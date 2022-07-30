@@ -11,6 +11,13 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "Okteto.remote-kubernetes",
+        "mindaro.mindaro",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "sandipchitale.vscode-kubernetes-commander",
+        "Okteto.kubernetes-context",
+        "ipedrazas.kubernetes-snippets",
+        "lunuan.kubernetes-templates",
+        "sandipchitale.vscode-kubewatch"
     ]
 }
